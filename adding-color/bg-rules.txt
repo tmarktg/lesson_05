@@ -1,0 +1,22 @@
+background
+background-attachment
+background-clip
+background-color
+background-image
+background-origin
+background-position
+background-repeat
+background-size
+color
+opacity
+Description
+Shorthand property that combines background properties
+Specifies whether the background image scrolls or is fixed
+Specifies how far the background image should extend
+Specifies the background color for an element
+Provides the location of an image to use as a background
+Determines how the background-position is calculated (from edge of border, padding, or content box)
+Specifies the location of the origin background image
+Specifies whether and how a background image repeats (tiles)
+Specifies the size of the background image Specifies the foreground (text and border) color
+Specifies the transparency level of the foreground and background
